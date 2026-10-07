@@ -1,4 +1,4 @@
-![ABS Suite](abs.jpg)
+![ABS Suite](assets/abs.jpg)
 # automotive-brake-system-suite
 Automotive Brake System Design, Simulation, and Optimization Suite
 
